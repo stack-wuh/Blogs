@@ -104,8 +104,11 @@
 
 
 ### 参考链接
+
 [年度汇报1](http://www.koppt.cn/index/html/tpdetail?tpId=1661)
 
 [年度汇报2](http://www.koppt.cn/index/html/tpdetail?tpId=1667)
 
 [科技风PPt](http://www.58pic.com/newpic/33335822.html)
+
+[Design mistakes in Node](http://tinyclouds.org/jsconf2018.pdf)
